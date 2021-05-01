@@ -43,3 +43,13 @@ img{
   margin-right: auto;
   width: 50%;
 }
+
+#footer {
+	position: fixed;
+	bottom: 0px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	background: #F57627;
+	height: 50px;
+}
