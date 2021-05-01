@@ -14,8 +14,10 @@ body{
 	display: block;
 	background: #F57627;
 	color: black;
+}
 	
-
+#navcontent {
+	
 li{  
 	/* background-color: #447abb; */
 	display: inline-block;
