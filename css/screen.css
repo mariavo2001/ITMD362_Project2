@@ -1,8 +1,9 @@
 /* Color palette: https://paletton.com/#uid=6170L0kqRuOmquJotuCu2vevTtP */
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
-body{
-	
+
+html{
+	font-family: 'Merriweather';
 }
 
 #navbar {
