@@ -1,14 +1,12 @@
+/* Color palette: https://paletton.com/#uid=6170L0kqRuOmquJotuCu2vevTtP */
+
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 body{
 	
 }
 
-nav{
-	width: 75%;
-	text-align: center;
-	margin: 0px auto;
-	font-family: 'Roboto', sans-serif;
-}
+a.nlink:link {
+	
 
 li{  
 	/* background-color: #447abb; */
