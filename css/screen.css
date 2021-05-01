@@ -5,7 +5,15 @@ body{
 	
 }
 
-a.nlink:link {
+#navbar {
+	list-style-type: none;
+	text-align: center;
+	justify-content: center;
+	padding: 0;
+	width: 100%;
+	display: block;
+	background: #F57627;
+	color: black;
 	
 
 li{  
