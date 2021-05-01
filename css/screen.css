@@ -26,7 +26,7 @@ html{
 	top: 0px;
 }
 
-.nlink a:hover {
+a.nlink:hover {
 	background: #F5BD27;
 }
 
